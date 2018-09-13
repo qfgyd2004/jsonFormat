@@ -1,0 +1,19 @@
+{
+  "name": "jsonformat",
+  "version": "1.0.0",
+  "description": "一个自定义json格式化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qfgyd2004/jsonFormat.git"
+  },
+  "author": "yudong.gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qfgyd2004/jsonFormat/issues"
+  },
+  "homepage": "https://github.com/qfgyd2004/jsonFormat#readme"
+}
